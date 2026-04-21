@@ -28,6 +28,6 @@ public class Main {
         System.out.println("Dimensiune set: " + set.size());
 
         System.out.println("\n=== 4. Ce s-ar întâmpla FĂRĂ equals/hashCode? ===");
-        System.out.println("Fără override, set-ul ar avea 2 elemente (obiecte diferite în memorie).");
+        System.out.println("Fara override, set-ul ar avea 2 elemente (obiecte diferite în memorie).");
     }
 }

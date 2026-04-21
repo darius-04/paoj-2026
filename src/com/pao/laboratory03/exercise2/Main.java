@@ -9,7 +9,7 @@ public class Main {
 
         Student s1 = new Student(1, "Ana");
         Student s2 = new Student(1, "Ana Popescu"); // același id
-        Student s3 = s1;                             // aceeași referință
+        Student s3 = s1;                             // aceeași referința
         Student s4 = new Student(2, "Maria");
 
         System.out.println("=== 1. Comparare cu == ===");
